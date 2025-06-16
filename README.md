@@ -65,3 +65,16 @@ pip install -r requirements.txt
 
 # Install Playwright browsers
 playwright install
+
+## 📹 Demo Video
+
+A **screen recording of the complete working system** is included in this repository.
+
+🎥 The video demonstrates:
+- Web scraping and screenshot capturing  
+- AI-based spinning and reviewing of chapters  
+- Human-in-the-loop feedback integration  
+- Content versioning with ChromaDB  
+- Final retrieval using RL-based search
+
+
