@@ -68,7 +68,12 @@ playwright install
 
 ## 📹 Demo Video
 
-A **screen recording of the complete working system** is included in this repository.
+## 📹 Demo Video
+
+A complete demo video is available on Google Drive.
+
+🎥 [Click here to watch the demo]()
+
 
 🎥 The video demonstrates:
 - Web scraping and screenshot capturing  
