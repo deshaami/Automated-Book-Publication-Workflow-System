@@ -104,3 +104,11 @@ automated-book-workflow/
 └── pycache/ # Python cache files (auto-generated; should be ignored)
 
 
+## 📦 Dependencies
+
+All dependencies are listed in `requirements.txt`. To install:
+
+```bash
+pip install -r requirements.txt
+
+
