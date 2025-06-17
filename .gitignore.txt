@@ -1,11 +1,12 @@
-# Ignore virtual environments
 venv/
-.env/
-__pycache__/
-
-# Ignore large data or video files
 *.mp4
-*.lib
 *.dll
-*.pyd
+*.lib
 *.exe
+*.pyd
+*.zip
+*.tar
+*.whl
+*.log
+__pycache__/
+.ipynb_checkpoints/
