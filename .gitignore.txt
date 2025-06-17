@@ -1,10 +1,6 @@
+# Ignore virtual environment
 venv/
-__pycache__/
-*.pyc
-*.log
-.ipynb_checkpoints/
+*.mp4
 *.dll
 *.lib
-*.pyd
 *.exe
-*.mp4
