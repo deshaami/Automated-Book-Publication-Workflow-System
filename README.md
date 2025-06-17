@@ -72,7 +72,7 @@ playwright install
 
 A complete demo video is available on Google Drive.
 
-🎥 [Click here to watch the demo]()
+🎥 [Click here to watch the demo](https://drive.google.com/file/d/1hxatRDXVUPevo2N1zg1kRcMTIIewcp3l/view?usp=sharing)
 
 
 🎥 The video demonstrates:
