@@ -83,3 +83,24 @@ A complete demo video is available on Google Drive.
 - Final retrieval using RL-based search
 
 
+## 📁 Project Structure
+
+automated-book-workflow/
+├── ai_writer.py # WriterAgent: Generates spun content using LLM
+├── reviewer.py # ReviewerAgent: Reviews and refines AI-generated content
+├── editor.py #  EditorAgent: Final refinement and approval
+├── fetcher.py # Orchestrates the agent flow: Writer → Reviewer → Editor
+├── scrape_chapter.py # Scrapes book content from the web using Playwright
+├── screenshot.py # Captures full-page screenshots of the chapter
+├── version_manager.py # Handles versioning and ChromaDB storage
+├── requirements.txt # Python dependencies list
+├── README.md # Project overview and documentation
+├── LICENSE 
+├── .gitignore # Git ignored files (e.g., env/, pycache)
+├── .env # Environment variables (e.g., API keys)
+├── chroma_store/ # Stores ChromaDB index and versioned content
+├── output/ # Output folder for screenshots and content files
+├── env/ # Python virtual environment (should be ignored)
+└── pycache/ # Python cache files (auto-generated; should be ignored)
+
+
